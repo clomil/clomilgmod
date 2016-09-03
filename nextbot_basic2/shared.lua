@@ -13,6 +13,7 @@ ENT.Model = "models/humans/Group01/Female_01.mdl"
 
 function ENT:Use( activator, caller, type, value )
 	print("ENT:Use", activator, caller, type, value)
+	self:EmitSound("path/to/sound/wav", SNDLVL_NORM, 100, 1, CHAN_VOICE)
 end
 
 function ENT:RunBehaviour()
