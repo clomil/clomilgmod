@@ -1,0 +1,20 @@
+"Gamemode"
+ {
+ 	"name"		"gamemode1"
+ 	"title"		"gamemode1"
+ 	"version"	"0.1"
+ 	"up_date"	"03/09/2016"
+ 
+ 	"author_name"	""
+ 	"author_email"	""
+ 	"author_url"	""
+ 
+ 	"info"		""
+ 	"icon" 	 	""
+ 	"hide"		"0"
+ 
+	"mappattern"
+	{
+		
+	}
+}
