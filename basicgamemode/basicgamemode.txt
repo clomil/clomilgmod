@@ -1,7 +1,7 @@
 "Gamemode"
 {
 	"base"		"base"
-	"title"		"gamemode1"
+	"title"		"basicgamemode"
 	"maps"		""
 	"menusystem"	"1"
 	"workshopid"	""

@@ -1,4 +1,4 @@
-GM.Name = "gamemode1"
+GM.Name = "basicgamemode"
 GM.Author = ""
 GM.Email = ""
 GM.Website = ""
