@@ -4,7 +4,7 @@ AddCSLuaFile("shared.lua")
 include("shared.lua")
 
 function GM:PlayerSpawn(ply)
-	self.BaseClass:PlayerInitialSpawn(ply)
+	self.BaseClass:PlayerSpawn(ply)
 end
 
 function GM:PlayerInitialSpawn(ply)
